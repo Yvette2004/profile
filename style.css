@@ -1,0 +1,68 @@
+main{
+text-align: center;
+font-family: 'Bellefair', serif;
+background-color: lightblue;
+}
+
+nav ul li {
+display: inline;
+padding: 10px 0px;
+margin: 0px 10px;
+
+}
+nav {
+	width: 92%;
+	height: 50px;
+	padding: 10px 10px;
+	position: fixed;
+}
+header {
+  	text-align: center;
+ 	height: 300px;
+	padding-top: 50px;
+
+}
+header,nav{background-image: linear-gradient( pink,#42e2f4,purple);}
+body {
+	margin: 0;
+	padding: 50px;
+	color: 	#F5F5F5;
+	background-color: #411d65;
+	text-align: center;
+	font-family: 'PT Sans', sans-serif;
+}
+img{padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px}
+
+
+main p{padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px
+	
+	}
+	#about{
+		font-style:italic;
+		text-transform: uppercase;
+		background-color:pink;
+	}
+	#future{
+		font-style:italic;
+		text-transform: uppercase;
+		background-color:pink;}
+	#never{
+		font-style:italic;
+		text-transform: uppercase;
+		background-color:pink;}
+	#yvette{
+		font-style:italic;
+		text-transform: uppercase;
+		background-color:pink;}
+	#experience{
+		font-style:italic;
+		text-transform: uppercase;
+		background-color:pink;}
+
+
