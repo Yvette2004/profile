@@ -1,6 +1,8 @@
 
 let about = document.getElementById("about");
 let bodyArray= document.getElementsByTagName("BODY");
+
+
 let body = bodyArray[0];
 document.addEventListener("click",whenClicked);
 
@@ -17,6 +19,8 @@ function whenHovered(){
 	body.style.color = "pink";
 }
 function whenDoneHovering(){
-	body.style.color = "white";
+	body.style.color = "black"
 }
+
+
 
